@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsrncrypt",
+        "uuid": 7264954,
+        "checksum": "nipz3g"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
